@@ -10,7 +10,6 @@ A full end-to-end Business Intelligence project built in Power BI Desktop — tr
 - [Data Sources](#data-sources)
 - [Data Model](#data-model)
 - [Dashboard Pages](#dashboard-pages)
-- [DAX Measures](#dax-measures)
 - [Key Findings](#key-findings)
 - [Tools & Skills](#tools--skills)
 - [File Structure](#file-structure)
@@ -92,6 +91,7 @@ Geographic revenue distribution across all active sales territories. Bubble map 
  
 ### Page 3 — Product Detail
 Drill into individual product performance. Gauge charts track current month orders, revenue, and returns against targets. Line and area charts show historical trends per product.
+
  
 **Key visuals:** Gauge charts (orders / revenue / returns vs target), line chart (trend over time), area chart, product name slicer
  
